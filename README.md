@@ -1,4 +1,4 @@
-# Coursework
+# GCSE Coursework
 All the files for my GCSE coursework
 'the GAME!' is the actual game file, which is a dice-based two-player game.
 The database file is needed to save scores.
